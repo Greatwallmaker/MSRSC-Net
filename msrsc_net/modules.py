@@ -1,7 +1,7 @@
 """Full MSRSC-Net modules. Adapted from the authors' experiment implementation.
 
 MHSIU, RGPU and basic projection utilities derive from ZoomNeXt (Youwei Pang
-and contributors). Modified for single-image MSRSC-Net; see THIRD_PARTY.md.
+and contributors). Modified for single-image MSRSC-Net; see README.md acknowledgements.
 """
 
 import torch

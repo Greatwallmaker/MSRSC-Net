@@ -3,7 +3,7 @@
 Adapted from PVT (Wenhai Wang and contributors) and the efficient PVTv2
 implementation distributed with ZoomNeXt. Modified to retain B4 only, use
 PyTorch SDPA on CPU or CUDA, and omit classification and variant switches.
-See THIRD_PARTY.md and licenses/PVT-Apache-2.0.txt.
+See README.md acknowledgements and licenses/PVT-Apache-2.0.txt.
 """
 
 import math
